@@ -9,18 +9,27 @@
 
 %\usepackage[english]{babel}%多言語文書を作成する
 \usepackage{amsmath,amssymb}%標準数式表現を拡大する
+\setbeamertemplate{footline}[frame number] 
+
+%---------- テーマの設定 ----------%
+\usetheme{Madrid} %テーマ
+\usecolortheme[named=orange]{structure} %テーマの色
 
 
-%----------- ここからスライド内容 ---------------%
+%---------- テーマの設定 ----------%
+
+%ここからスライド内容
 
 %表紙
-\title[Slides with Beamer]{ゼミ発表}
+\title{\bfseries ゼミ発表}
 %\subtitle{サブタイトル}
 
-\institute{西田研究室}
-\author[Hanako Daito]{津上祐典}
 
-\date[June 12 2013]{2016年6月23日}
+\author{学籍番号：16344217 \\氏名：津上祐典}
+\institute[]{九州工業大学大学院　工学府\\機械知能工学専攻　知能制御工学コー
+ス　西田研究室}
+
+\date{2016年6月23日}
 \subject{\LaTeX{}+Beamer}
 
 %タイトルの表示
@@ -51,9 +60,9 @@
 \begin{block}{MR流体} 
 磁界で変化
 \end{block}
-\begin{example}{ER流体}
+\begin{block}{ER流体}
 電界で変化
-\end{example}
+\end{block}
 
 \pause　%アニメーション：後から表示する
 \begin{alertblock}{結果}
