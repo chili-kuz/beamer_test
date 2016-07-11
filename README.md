@@ -60,7 +60,8 @@ colorに色を書く．例えば，orangeとか．↑のリンクではすべて
 \end{block}
 ```
 こんな感じのやつが出てくる（theme=Madrid,color=orangeのとき）
-[コンパイル後](wiki/beamer1.png)
+
+\[コンパイル後](wiki/beamer1.png)
 
 ##コンパイル
 いつも通りでおｋ．
