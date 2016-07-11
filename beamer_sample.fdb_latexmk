@@ -1,9 +1,9 @@
 # Fdb version 3
-["dvipdf"] 1466692480 "beamer_sample.dvi" "beamer_sample.pdf" "beamer_sample" 1466692480
-  "beamer_sample.dvi" 1466692480 88472 0a459c95221f02ce33cf18b59779c29e "latex"
+["dvipdf"] 1468246409 "beamer_sample.dvi" "beamer_sample.pdf" "beamer_sample" 1468246410
+  "beamer_sample.dvi" 1468246409 88444 15eb3017e35534e24be06bff34e25edb "latex"
   (generated)
   "beamer_sample.pdf"
-["latex"] 1466692479 "beamer_sample.tex" "beamer_sample.dvi" "beamer_sample" 1466692480
+["latex"] 1468246407 "beamer_sample.tex" "beamer_sample.dvi" "beamer_sample" 1468246410
   "/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty" 1284331290 1458 43ab4710dc82f3edeabecd0d099626b2 ""
   "/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/atbegshi.sty" 1335995445 24460 92f559a71aac869021852c227c704b38 ""
   "/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty" 1303254447 8237 52810bdb4db2270e717422560a104aea ""
@@ -142,16 +142,16 @@
   "/usr/local/texlive/2015/texmf-dist/tex/latex/url/url.sty" 1388531844 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/usr/local/texlive/2015/texmf-dist/tex/latex/xcolor/xcolor.sty" 1169481954 55224 a43bab84e0ac5e6efcaf9a98bde73a94 ""
   "/usr/local/texlive/2015/texmf-dist/tex/platex/pxjahyper/pxjahyper.sty" 1355266242 18313 6d151d0feeb5a3de9dbeff056f5e1e9e ""
-  "beamer_sample.aux" 1466692480 3011 4b0eb640daad98ccf600cce6e41c70ac ""
-  "beamer_sample.nav" 1466692480 1404 b56fea0545671a8c02ec5223119f31af ""
-  "beamer_sample.out" 1466692480 250 910eca42cbcaba8cb1eaa5261d4d5f8c ""
-  "beamer_sample.tex" 1466692478 2156 3c457808b80e1bcedc975ffbe00b18d1 ""
-  "beamer_sample.toc" 1466692480 288 ec0842a46d227d59904d5837675dea13 ""
+  "beamer_sample.aux" 1468246409 3011 4b0eb640daad98ccf600cce6e41c70ac ""
+  "beamer_sample.nav" 1468246409 1404 b56fea0545671a8c02ec5223119f31af ""
+  "beamer_sample.out" 1468246409 250 910eca42cbcaba8cb1eaa5261d4d5f8c ""
+  "beamer_sample.tex" 1468246405 2151 6fdff346c98620b307a60a0a5ebfa72c ""
+  "beamer_sample.toc" 1468246409 288 ec0842a46d227d59904d5837675dea13 ""
   "fig/s_gripperp.png" 1466688260 71159 2082b5ae194433fc0a288cb648ed364d ""
   (generated)
-  "beamer_sample.dvi"
+  "beamer_sample.toc"
+  "beamer_sample.out"
   "beamer_sample.aux"
   "beamer_sample.nav"
   "beamer_sample.log"
-  "beamer_sample.out"
-  "beamer_sample.toc"
+  "beamer_sample.dvi"
